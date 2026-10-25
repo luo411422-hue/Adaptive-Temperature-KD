@@ -77,8 +77,8 @@ flowchart LR
 ## 快速开始
 
 ```bash
-git clone https://github.com/luo411422-hue/merge-.git
-cd merge-
+git clone https://github.com/luo411422-hue/Adaptive-Temperature-KD.git
+cd Adaptive-Temperature-KD
 pip install -r requirements.txt
 ```
 
